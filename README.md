@@ -1,8 +1,4 @@
----
-layout: page
-comments: true
-title: CUDA
----
+# CUDA
 ## The GPU Computation framework.
 > This is an excerpt from our final year project report, titled *Fractional Calculus using CUDA*. The team members include   ``
 > Guides: [Bhavana B Turorikar](https://www.linkedin.com/in/bhavana-alte-turorikar-13283620/), [Dr.Vishwesh Vyawahare](https://www.linkedin.com/in/vishwesh-vyawahare-6b472211/)
